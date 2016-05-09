@@ -5,6 +5,7 @@
 //  Created by Silbird-Tateyama on 2016/04/28.
 //  Copyright © 2016年 Silbird-Tateyama. All rights reserved.
 //
+// Edut Test
 
 import UIKit
 
