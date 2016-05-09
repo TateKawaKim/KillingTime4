@@ -2,8 +2,8 @@
 //  MasterViewController.swift
 //  test
 //
-//  Created by Silbird-Tateyama on 2016/04/28.
-//  Copyright © 2016年 Silbird-Tateyama. All rights reserved.
+//  Created by Tateyama on 2016/04/28.
+//  Copyright © 2016年 Tateyama. All rights reserved.
 //
 
 import UIKit
